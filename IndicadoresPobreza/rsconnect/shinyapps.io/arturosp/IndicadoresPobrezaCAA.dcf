@@ -1,0 +1,14 @@
+name: IndicadoresPobrezaCAA
+title: IndicadoresPobrezaCAA
+username:
+account: arturosp
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 7268380
+bundleId: 6389236
+url: https://arturosp.shinyapps.io/IndicadoresPobrezaCAA/
+when: 1665439316.1769
+lastSyncTime: 1665439316.1769
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: Mpios/MunicipiosWGS84.cpg|Mpios/MunicipiosWGS84.dbf|Mpios/MunicipiosWGS84.prj|Mpios/MunicipiosWGS84.shp|Mpios/MunicipiosWGS84.shx

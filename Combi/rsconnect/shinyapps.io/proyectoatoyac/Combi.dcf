@@ -1,0 +1,13 @@
+name: Combi
+title: Combi
+username:
+account: proyectoatoyac
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 8182182
+bundleId: 6794635
+url: https://proyectoatoyac.shinyapps.io/Combi/
+when: 1675190288.89522
+lastSyncTime: 1675190288.89523
+asMultiple: FALSE
+asStatic: FALSE

@@ -1,0 +1,139 @@
+Indicador,Etiqueta
+Pobr_Porc,Pobreza Porcentaje
+Pobr_Porc,Pobreza Porcentaje
+Pobr_Porc,Pobreza Porcentaje
+Pobr_Pers,Pobreza Personas
+Pobr_Pers,Pobreza Personas
+Pobr_Pers,Pobreza Personas
+Pobr_CareProm,Pobreza Carencias promedio
+Pobr_CareProm,Pobreza Carencias promedio
+Pobr_CareProm,Pobreza Carencias promedio
+PobrExtr_Porc,Pobreza extrema Porcentaje
+PobrExtr_Porc,Pobreza extrema Porcentaje
+PobrExtr_Porc,Pobreza extrema Porcentaje
+PobrExtr_Pers,Pobreza extrema Personas
+PobrExtr_Pers,Pobreza extrema Personas
+PobrExtr_Pers,Pobreza extrema Personas
+PobrExtr_CareProm,Pobreza extrema Carencias promedio
+PobrExtr_CareProm,Pobreza extrema Carencias promedio
+PobrExtr_CareProm,Pobreza extrema Carencias promedio
+PobrMode_Porc,Pobreza moderada Porcentaje
+PobrMode_Porc,Pobreza moderada Porcentaje
+PobrMode_Porc,Pobreza moderada Porcentaje
+PobrMode_Pers,Pobreza moderada Personas
+PobrMode_Pers,Pobreza moderada Personas
+PobrMode_Pers,Pobreza moderada Personas
+PobrMode_CareProm,Pobreza moderada Carencias promedio
+PobrMode_CareProm,Pobreza moderada Carencias promedio
+PobrMode_CareProm,Pobreza moderada Carencias promedio
+VulnCarSoc_Porc,Vulnerables por carencia social Porcentaje
+VulnCarSoc_Porc,Vulnerables por carencia social Porcentaje
+VulnCarSoc_Porc,Vulnerables por carencia social Porcentaje
+VulnCarSoc_Pers,Vulnerables por carencia social Personas
+VulnCarSoc_Pers,Vulnerables por carencia social Personas
+VulnCarSoc_Pers,Vulnerables por carencia social Personas
+VulnCarSoc_CareProm,Vulnerables por carencia social Carencias promedio
+VulnCarSoc_CareProm,Vulnerables por carencia social Carencias promedio
+VulnCarSoc_CareProm,Vulnerables por carencia social Carencias promedio
+VulnIngr_Porc,Vulnerables por ingreso Porcentaje
+VulnIngr_Porc,Vulnerables por ingreso Porcentaje
+VulnIngr_Porc,Vulnerables por ingreso Porcentaje
+VulnIngr_Pers,Vulnerables por ingreso Personas
+VulnIngr_Pers,Vulnerables por ingreso Personas
+VulnIngr_Pers,Vulnerables por ingreso Personas
+NoPobNoVuln_Porc,No pobre y no vulnerable Porcentaje
+NoPobNoVuln_Porc,No pobre y no vulnerable Porcentaje
+NoPobNoVuln_Porc,No pobre y no vulnerable Porcentaje
+NoPobNoVuln_Pers,No pobre y no vulnerable Personas
+NoPobNoVuln_Pers,No pobre y no vulnerable Personas
+NoPobNoVuln_Pers,No pobre y no vulnerable Personas
+RezaEduc_Porc,Rezago educativo Porcentaje
+RezaEduc_Porc,Rezago educativo Porcentaje
+RezaEduc_Porc,Rezago educativo Porcentaje
+RezaEduc_Pers,Rezago educativo Personas
+RezaEduc_Pers,Rezago educativo Personas
+RezaEduc_Pers,Rezago educativo Personas
+RezaEduc_CareProm,Rezago educativo Carencias promedio
+RezaEduc_CareProm,Rezago educativo Carencias promedio
+RezaEduc_CareProm,Rezago educativo Carencias promedio
+CareServSalu_Porc,Carencia por acceso a los servicios de salud Porcentaje
+CareServSalu_Porc,Carencia por acceso a los servicios de salud Porcentaje
+CareServSalu_Porc,Carencia por acceso a los servicios de salud Porcentaje
+CareServSalu_Pers,Carencia por acceso a los servicios de salud Personas
+CareServSalu_Pers,Carencia por acceso a los servicios de salud Personas
+CareServSalu_Pers,Carencia por acceso a los servicios de salud Personas
+CareServSalu_CareProm,Carencia por acceso a los servicios de salud Carencias promedio
+CareServSalu_CareProm,Carencia por acceso a los servicios de salud Carencias promedio
+CareServSalu_CareProm,Carencia por acceso a los servicios de salud Carencias promedio
+CareSeguSoci_Porc,Carencia por acceso a la seguridad social Porcentaje
+CareSeguSoci_Porc,Carencia por acceso a la seguridad social Porcentaje
+CareSeguSoci_Porc,Carencia por acceso a la seguridad social Porcentaje
+CareSeguSoci_Pers,Carencia por acceso a la seguridad social Personas
+CareSeguSoci_Pers,Carencia por acceso a la seguridad social Personas
+CareSeguSoci_Pers,Carencia por acceso a la seguridad social Personas
+CareSeguSoci_CareProm,Carencia por acceso a la seguridad social Carencias promedio
+CareSeguSoci_CareProm,Carencia por acceso a la seguridad social Carencias promedio
+CareSeguSoci_CareProm,Carencia por acceso a la seguridad social Carencias promedio
+CareCaliVivi_Porc,Carencia por calidad y espacios de la vivienda Porcentaje
+CareCaliVivi_Porc,Carencia por calidad y espacios de la vivienda Porcentaje
+CareCaliVivi_Porc,Carencia por calidad y espacios de la vivienda Porcentaje
+CareCaliVivi_Pers,Carencia por calidad y espacios de la vivienda Personas
+CareCaliVivi_Pers,Carencia por calidad y espacios de la vivienda Personas
+CareCaliVivi_Pers,Carencia por calidad y espacios de la vivienda Personas
+CareCaliVivi_CareProm,Carencia por calidad y espacios de la vivienda Carencias promedio
+CareCaliVivi_CareProm,Carencia por calidad y espacios de la vivienda Carencias promedio
+CareCaliVivi_CareProm,Carencia por calidad y espacios de la vivienda Carencias promedio
+CareServVivi_Porc,Carencia por acceso a los servicios básicos en la vivienda Porcentaje
+CareServVivi_Porc,Carencia por acceso a los servicios básicos en la vivienda Porcentaje
+CareServVivi_Porc,Carencia por acceso a los servicios básicos en la vivienda Porcentaje
+CareServVivi_Pers,Carencia por acceso a los servicios básicos en la vivienda Personas
+CareServVivi_Pers,Carencia por acceso a los servicios básicos en la vivienda Personas
+CareServVivi_Pers,Carencia por acceso a los servicios básicos en la vivienda Personas
+CareServVivi_CareProm,Carencia por acceso a los servicios básicos en la vivienda Carencias promedio
+CareServVivi_CareProm,Carencia por acceso a los servicios básicos en la vivienda Carencias promedio
+CareServVivi_CareProm,Carencia por acceso a los servicios básicos en la vivienda Carencias promedio
+CareAcceAlim_Porc,Carencia por acceso a la alimentación Porcentaje
+CareAcceAlim_Porc,Carencia por acceso a la alimentación Porcentaje
+CareAcceAlim_Porc,Carencia por acceso a la alimentación Porcentaje
+CareAcceAlim_Pers,Carencia por acceso a la alimentación Personas
+CareAcceAlim_Pers,Carencia por acceso a la alimentación Personas
+CareAcceAlim_Pers,Carencia por acceso a la alimentación Personas
+CareAcceAlim_CareProm,Carencia por acceso a la alimentación Carencias promedio
+CareAcceAlim_CareProm,Carencia por acceso a la alimentación Carencias promedio
+CareAcceAlim_CareProm,Carencia por acceso a la alimentación Carencias promedio
+Pobl1CarSoc_Porc,Población con al menos una carencia social Porcentaje
+Pobl1CarSoc_Porc,Población con al menos una carencia social Porcentaje
+Pobl1CarSoc_Porc,Población con al menos una carencia social Porcentaje
+Pobl1CarSoc_Pers,Población con al menos una carencia social Personas
+Pobl1CarSoc_Pers,Población con al menos una carencia social Personas
+Pobl1CarSoc_Pers,Población con al menos una carencia social Personas
+Pobl1CarSoc_CareProm,Población con al menos una carencia social Carencias promedio
+Pobl1CarSoc_CareProm,Población con al menos una carencia social Carencias promedio
+Pobl1CarSoc_CareProm,Población con al menos una carencia social Carencias promedio
+Pobl3+CarSoc_Porc,Población con tres o más carencias sociales Porcentaje
+Pobl3+CarSoc_Porc,Población con tres o más carencias sociales Porcentaje
+Pobl3+CarSoc_Porc,Población con tres o más carencias sociales Porcentaje
+Pobl3+CarSoc_Pers,Población con tres o más carencias sociales Personas
+Pobl3+CarSoc_Pers,Población con tres o más carencias sociales Personas
+Pobl3+CarSoc_Pers,Población con tres o más carencias sociales Personas
+Pobl3+CarSoc_CareProm,Población con tres o más carencias sociales Carencias promedio
+Pobl3+CarSoc_CareProm,Población con tres o más carencias sociales Carencias promedio
+Pobl3+CarSoc_CareProm,Población con tres o más carencias sociales Carencias promedio
+PoblIngInfLineaPobr_Porc, Población con ingreso inferior a la línea de pobreza por ingresos Porcentaje
+PoblIngInfLineaPobr_Porc, Población con ingreso inferior a la línea de pobreza por ingresos Porcentaje
+PoblIngInfLineaPobr_Porc, Población con ingreso inferior a la línea de pobreza por ingresos Porcentaje
+PoblIngInfLineaPobr_Pers, Población con ingreso inferior a la línea de pobreza por ingresos Personas
+PoblIngInfLineaPobr_Pers, Población con ingreso inferior a la línea de pobreza por ingresos Personas
+PoblIngInfLineaPobr_Pers, Población con ingreso inferior a la línea de pobreza por ingresos Personas
+PoblIngInfLineaPobr_CareProm, Población con ingreso inferior a la línea de pobreza por ingresos Carencias promedio
+PoblIngInfLineaPobr_CareProm, Población con ingreso inferior a la línea de pobreza por ingresos Carencias promedio
+PoblIngInfLineaPobr_CareProm, Población con ingreso inferior a la línea de pobreza por ingresos Carencias promedio
+PoblIngInfLineaPobrExtr_Porc,Población con ingreso inferior a la línea de pobreza extrema por ingresos Porcentaje
+PoblIngInfLineaPobrExtr_Porc,Población con ingreso inferior a la línea de pobreza extrema por ingresos Porcentaje
+PoblIngInfLineaPobrExtr_Porc,Población con ingreso inferior a la línea de pobreza extrema por ingresos Porcentaje
+PoblIngInfLineaPobrExtr_Pers,Población con ingreso inferior a la línea de pobreza extrema por ingresos Personas
+PoblIngInfLineaPobrExtr_Pers,Población con ingreso inferior a la línea de pobreza extrema por ingresos Personas
+PoblIngInfLineaPobrExtr_Pers,Población con ingreso inferior a la línea de pobreza extrema por ingresos Personas
+PoblIngInfLineaPobrExtr_CareProm,Población con ingreso inferior a la línea de pobreza extrema por ingresos Carencias promedio
+PoblIngInfLineaPobrExtr_CareProm,Población con ingreso inferior a la línea de pobreza extrema por ingresos Carencias promedio
+PoblIngInfLineaPobrExtr_CareProm,Población con ingreso inferior a la línea de pobreza extrema por ingresos Carencias promedio

@@ -1,0 +1,13 @@
+name: IndicadoresPobreza
+title: IndicadoresPobreza
+username:
+account: proyectoatoyac
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 8185695
+bundleId: 6795439
+url: https://proyectoatoyac.shinyapps.io/IndicadoresPobreza/
+when: 1675205774.08531
+lastSyncTime: 1675205774.08532
+asMultiple: FALSE
+asStatic: FALSE

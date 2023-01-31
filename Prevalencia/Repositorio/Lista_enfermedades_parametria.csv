@@ -1,0 +1,87 @@
+COD,ECNT,GpoCausa
+1,Malformación congénita,"Malformaciones congénitas, deformidades y anomalías cromosómicas"
+2,Enfermedad del corazón,Enfermedades del sistema circulatorio
+3,Púrpura trombocitopénica,Enfermedades de la sangre y de los órganos hematopoyéticos y otros trastornos que afectan el mecanismo de la inmunidad
+4,Anemia,Enfermedades de la sangre y de los órganos hematopoyéticos y otros trastornos que afectan el mecanismo de la inmunidad
+5,Enfermedad renal,Enfermedades del aparato genitourinario
+6,Enfermedad de la tiroides,"Enfermedades endocrinas, nutricionales y metabólicas"
+7,"Enfermedades en otras glándulas (suprarrenales, pituitarias)","Enfermedades endocrinas, nutricionales y metabólicas"
+8,Pancreatitis,Enfermedades del aparato digestivo
+9,Cirrosis hepática,Enfermedades del aparato digestivo
+10,Hepatitis crónica no viral,Enfermedades del aparato digestivo
+11,Enfisema,Enfermedades del sistema respiratorio
+12,Asma,Enfermedades del sistema respiratorio
+13,Bronquitis crónica (no contagiosa),Enfermedades del sistema respiratorio
+14,Parkinson,Enfermedades del sistema nervioso
+15,Alzheimer,Enfermedades del sistema nervioso
+16,Esclerosis,Enfermedades del sistema nervioso
+17,Daño en el cerebro,Enfermedades del sistema nervioso
+18,Enfermedad cerebrovascular,Enfermedades del sistema circulatorio
+19,Demencia,Trastornos mentales y del comportamiento
+20,Autismo,Trastornos mentales y del comportamiento
+21,Leucemia,Neoplasias
+22,Linfoma de Hodgkin,Neoplasias
+23,Linfoma de No-Hodgkin,Neoplasias
+24,Melanomas (cáncer de piel),Neoplasias
+25,"Tumor o cáncer en Órganos digestivos:esófago, estómago, intestinos, ano",Neoplasias
+26,Tumor o cáncer en genitales masculinos,Neoplasias
+27,"Tumor o cáncer en órganos reproductivos de la mujer: ovarios, útero, vagina, vulva, cuello uterino",Neoplasias
+28,Mama o seno,Neoplasias
+29,Tumor o cáncer en Tiroides,Neoplasias
+30,Tumor o cáncer en pulmón,Neoplasias
+31,"Tumor o cáncer en vías respiratorias: tráquea, faringe o garganta o laringe",Neoplasias
+32,Tumor o cáncer en riñón,Neoplasias
+33,"Tumor o cáncer en vías urinarias: vejiga, uréter, uretra",Neoplasias
+34,Tumor o cáncer en hígado,Neoplasias
+35,Tumor o cáncer en páncreas,Neoplasias
+36,"Tumor o cáncer en el sistema nervioso central: cerebro, encéfalo, médula espinal",Neoplasias
+37,Tumor o cáncer en ojo,Neoplasias
+38,Tumor o cáncer en boca,Neoplasias
+39,Otro tipo de cáncer o enfermedad,Neoplasias
+40,Aneurisma,Enfermedades del sistema circulatorio
+41,Artritis,Enfermedades del sistema osteomuscular y del tejido conectivo
+42,CUCI,Enfermedades del aparato digestivo
+43,Tumor en el cerebro,Neoplasias
+44,Embolia,Enfermedades del sistema circulatorio
+45,Enfermedad de Meniere,Enfermedades del ojo y sus anexos
+46,Epilepsia,Enfermedades del sistema nervioso
+47,Epoc,Enfermedades del sistema respiratorio
+48,Escoliosis,Enfermedades del sistema osteomuscular y del tejido conectivo
+49,Esquizofrenia,Trastornos mentales y del comportamiento
+50,Fibromialgia,Enfermedades del sistema osteomuscular y del tejido conectivo
+51,Fibrosis pulmonar,Enfermedades del sistema respiratorio
+52,Glomerulonefritis,Enfermedades del aparato genitourinario
+53,Hemofilia,Enfermedades de la sangre y de los órganos hematopoyéticos y otros trastornos que afectan el mecanismo de la inmunidad
+54,Hepatosplenomegalia,"Síntomas, signos y hallazgos anormales clínicos y de laboratorio, no clasificados en otra parte"
+55,Hidrocefalia,"Malformaciones congénitas, deformidades y anomalías cromosómicas"
+56,Hígado graso,Enfermedades del aparato digestivo
+57,Lupus,Enfermedades de la piel y el tejido subcutáneo
+58,Neuromielitis óptica / Enfemedad devic,Enfermedades del sistema nervioso
+59,Parálisis cerebral,Enfermedades del sistema nervioso
+60,Parálisis corporal,Enfermedades del sistema nervioso
+61,Poliposis múltiple coronaria,Neoplasias
+62,Psoriasis,Enfermedades de la piel y el tejido subcutáneo
+63,Síndrome de Turner,"Malformaciones congénitas, deformidades y anomalías cromosómicas"
+64,Sordera,Enfermedades del oído y de la apófisis mastoides
+65,Trombosis,Enfermedades del sistema circulatorio
+66,Retinosis pigmentaria,Enfermedades del ojo y sus anexos
+67,Osteoporosis,Enfermedades del sistema osteomuscular y del tejido conectivo
+68,Colitis,Enfermedades del aparato digestivo
+69,Herpes zoster,Ciertas enfermedades infecciosas y parasitarias
+70,Sarcoma Sinovial,Neoplasias
+71,Síndrome de Down,"Malformaciones congénitas, deformidades y anomalías cromosómicas"
+72,Malformación degenerativa de los huesos,"Malformaciones congénitas, deformidades y anomalías cromosómicas"
+73,Cáncer en extremidades,Neoplasias
+74,Síndrome de Guillain-Barré,Enfermedades del sistema nervioso
+75,Ceguera,Enfermedades del ojo y sus anexos
+76,Anginas crónicas,Enfermedades del sistema circulatorio
+77,Cáncer de piel,Neoplasias
+78,Problemas del habla,Trastornos mentales y del comportamiento
+79,Tumor de células gigantes,Neoplasias
+80,Osteomielitis,Enfermedades del sistema osteomuscular y del tejido conectivo
+81,Leucoma corneal,Enfermedades del ojo y sus anexos
+82,Tumor en las glándulas del crecimiento,Neoplasias
+83,Ciática,Enfermedades del sistema osteomuscular y del tejido conectivo
+84,Bradicardia,Enfermedades del sistema circulatorio
+85,Displasia broncopulmonar,Neoplasias
+136,Cáncer (no recuerda),Neoplasias
