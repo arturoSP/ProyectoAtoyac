@@ -1,0 +1,21 @@
+Grupo,Enfermedades,Clave CIE-10,Clave_EPI
+Neoplasias,Tumor maligno del cuello del útero,C53,97
+Neoplasias,Displasia cervical severa y cacu in situ,"N87.2, D06",118
+Neoplasias,Tumor maligno de la mama,C50,119
+Enf. endrocrinas y metabólicas,Bocio endémico,E01,41
+Enf. endrocrinas y metabólicas,Diabetes mellitus tipo II,E11-E14,49
+Enf. endrocrinas y metabólicas,Diabetes mellitus tipo I,E10,127
+Enf. endrocrinas y metabólicas,Obesidad,E66,135
+Enf. del sistema circulatorio,Hipertensión arterial,I10-I15,47
+Enf. del sistema circulatorio,Enfermedad isquémica del corazón,I20-I25,51
+Enf. del sistema circulatorio,Enfermedad cerebrovascular,"I60-I67, I69",52
+"Malformaciones congénitas, deformidades y anomalias cromosómicas",Encefalocele,Q01,129
+"Malformaciones congénitas, deformidades y anomalias cromosómicas",Espina bífida,Q05,130
+"Malformaciones congénitas, deformidades y anomalias cromosómicas",Labio y paladar hendido,Q35-Q37,131
+"Malformaciones congénitas, deformidades y anomalias cromosómicas",Microcefalia,Q02,184
+"Malformaciones congénitas, deformidades y anomalias cromosómicas",Anencefalia,Q00,96
+Enf. del sistema nervioso,Enfermedad de Parkinson,G20,170
+Enf. del sistema nervioso,Enfermedad de Alzheimer,G30,171
+Enf. del sistema respiratorio,Asma,J45-J46,54
+"Traumatismos, envenenamientos y algunas otras consecuencias de causa externa",Intoxicación por plaguicida,T60,57
+Enf. del sistema digestivo,"Úlceras, gastritis y duodenitis",K25-K29,109

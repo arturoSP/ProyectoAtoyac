@@ -1,0 +1,13 @@
+name: IncidenciaAcumulada
+title: IncidenciaAcumulada
+username:
+account: proyectoatoyac
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 8185844
+bundleId: 6795487
+url: https://proyectoatoyac.shinyapps.io/IncidenciaAcumulada/
+when: 1675206729.21031
+lastSyncTime: 1675206729.21031
+asMultiple: FALSE
+asStatic: FALSE
