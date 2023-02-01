@@ -1,0 +1,21 @@
+---
+format: 
+  html: 
+    df-print: kable
+editor: visual
+theme: journal
+---
+
+## Métricas de la tasa de mortalidad
+
+Este proyecto explora la situación de salud en la Cuenca del Alto Atoyac, con respecto a enfermedades crónicas no transmisibles, a partir del cálculo de tasas de mortalidad en 20 años recientes (2000 a 2019). Se usan datos de defunciones obtenidos del sitio de INEGI y poblaciones estimadas a mitad de año por la SSA.
+
+### Modo de empleo
+
+1.  La barra izquierda tiene espacios para seleccionar enfermedades a partir de una división del código CIE10 en su parte de texto y su parte numérica. En caso de no conocer la clave CIE10 que se está buscando, se puede usar el buscador de códigos debajo en esta misma página.
+
+2.  Seleccionar el grupo de edad que se quiere revisar. Se puede seleccionar más de un grupo a la vez.
+
+3.  En caso de seleccionar más de un grupo de edad se puede seleccionar si se quiere revisar los datos de estos grupos juntos o por separado.
+
+4.  Una vez seleccionados los parámetros, se hace click en el botón "Actualizar" y se puede revisar la información correspondiente en las páginas del lado derecho.
